@@ -7,4 +7,4 @@
 * A CI (Continuous Integration) script using GitHub Actions
 * ...
 
-#### &#169; 2024 giáo.làng 
+#### &#169; 2024 anhvy-dev
