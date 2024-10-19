@@ -1,3 +1,5 @@
+[![Math Utility Project | © 2024 by anhvy-dev]
+(https://github.com/anhvy-dev/math-util/actions/workflows/ci-script-junit.yml/badge.svg)](https://github.com/anhvy-dev/math-util/actions/workflows/ci-script-junit.yml)
 # Math Utility (Maven project)
 
 ## Welcome to Math Utility
